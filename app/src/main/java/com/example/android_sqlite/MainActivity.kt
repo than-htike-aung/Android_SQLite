@@ -25,7 +25,6 @@ class MainActivity : AppCompatActivity() {
 
         val go = findViewById<Button>(R.id.go_subject)
 
-        val delete = findViewById<Button>(R.id.delete_btn)
 
 
 
